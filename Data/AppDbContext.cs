@@ -17,6 +17,7 @@ public class AppDbContext(DbContextOptions<AppDbContext> options) : DbContext(op
     public DbSet<Message> Messages { get; set; }
     public DbSet<UserConversation> UserConversations { get; set; }
     public DbSet<UserFollow> UserFollows { get; set; }
+    public DbSet<ThanhVienNhom> ThanhVienNhoms { get; set; }
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {

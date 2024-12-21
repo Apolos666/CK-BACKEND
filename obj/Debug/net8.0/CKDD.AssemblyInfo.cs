@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CKDD")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+544baf6ac4ad688d1a6e4de2ebdcd28d8a97c7d4")]
 [assembly: System.Reflection.AssemblyProductAttribute("CKDD")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CKDD")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
